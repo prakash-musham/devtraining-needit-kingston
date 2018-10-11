@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>60</auth_code_lifespan>
+        <auth_url/>
+        <certificate_url/>
+        <client_id>77d79c1eb6c12300f4c3f873254e9b08</client_id>
+        <client_secret>i1jo8EV0T08=</client_secret>
+        <client_uuid>37d79c1edbc12300de9bd6aa48961908</client_uuid>
+        <comments/>
+        <default_grant_type>password</default_grant_type>
+        <id_token_lifespan>86400</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>60</message_signature_lifespan>
+        <name>AmazonAlexa</name>
+        <oauth_api_script/>
+        <redirect_url/>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <revoke_token_url/>
+        <salt/>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-11 13:10:45</sys_created_on>
+        <sys_id>b7d79c1edbc12300de9bd6aa48961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AmazonAlexa</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>oauth_entity_b7d79c1edbc12300de9bd6aa48961908</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-11 13:10:45</sys_updated_on>
+        <token_url/>
+        <type>client</type>
+        <user/>
+    </oauth_entity>
+</record_update>
